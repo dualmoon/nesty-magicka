@@ -1,13 +1,13 @@
 name = "Regrowth"
-filename = "Regrowth--1.18.1-1.39.0.24.jar"
+filename = "Regrowth--1.18.1-1.39.0.25.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3568/31/Regrowth--1.18.1-1.39.0.24.jar"
+url = "https://edge.forgecdn.net/files/3614/246/Regrowth--1.18.1-1.39.0.25.jar"
 hash-format = "murmur2"
-hash = "2766851517"
+hash = "1833726673"
 
 [update]
 [update.curseforge]
-file-id = 3568031
+file-id = 3614246
 project-id = 381597

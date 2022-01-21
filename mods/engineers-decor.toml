@@ -1,13 +1,13 @@
 name = "Engineer's Decor"
-filename = "engineersdecor-1.18.1-1.1.19-b1.jar"
+filename = "engineersdecor-1.18.1-1.1.19-b2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3591/315/engineersdecor-1.18.1-1.1.19-b1.jar"
+url = "https://edge.forgecdn.net/files/3605/918/engineersdecor-1.18.1-1.1.19-b2.jar"
 hash-format = "murmur2"
-hash = "2552539236"
+hash = "3316414705"
 
 [update]
 [update.curseforge]
-file-id = 3591315
+file-id = 3605918
 project-id = 313866

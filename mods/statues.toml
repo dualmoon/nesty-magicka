@@ -1,13 +1,13 @@
 name = "Statues"
-filename = "Statues-1.18-0.1.7.8.jar"
+filename = "Statues-1.18.1-0.1.7.9.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3553/964/Statues-1.18-0.1.7.8.jar"
+url = "https://edge.forgecdn.net/files/3614/12/Statues-1.18.1-0.1.7.9.jar"
 hash-format = "murmur2"
-hash = "3446342261"
+hash = "2656688795"
 
 [update]
 [update.curseforge]
-file-id = 3553964
+file-id = 3614012
 project-id = 253172

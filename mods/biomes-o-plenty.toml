@@ -1,13 +1,13 @@
 name = "Biomes O' Plenty"
-filename = "BiomesOPlenty-1.18.1-15.0.0.94-universal.jar"
+filename = "BiomesOPlenty-1.18.1-15.0.0.101-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3599/398/BiomesOPlenty-1.18.1-15.0.0.94-universal.jar"
+url = "https://edge.forgecdn.net/files/3613/918/BiomesOPlenty-1.18.1-15.0.0.101-universal.jar"
 hash-format = "murmur2"
-hash = "3845230487"
+hash = "3585685202"
 
 [update]
 [update.curseforge]
-file-id = 3599398
+file-id = 3613918
 project-id = 220318

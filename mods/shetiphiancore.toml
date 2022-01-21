@@ -1,13 +1,13 @@
 name = "ShetiPhianCore"
-filename = "shetiphiancore-1.18-3.10.0.jar"
+filename = "shetiphiancore-1.18-3.10.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3574/807/shetiphiancore-1.18-3.10.0.jar"
+url = "https://edge.forgecdn.net/files/3609/115/shetiphiancore-1.18-3.10.2.jar"
 hash-format = "murmur2"
-hash = "1299148440"
+hash = "841491314"
 
 [update]
 [update.curseforge]
-file-id = 3574807
+file-id = 3609115
 project-id = 71738

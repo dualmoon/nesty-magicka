@@ -1,13 +1,13 @@
 name = "Magical Torches"
-filename = "MagicalTorches-1.18.1-2.0.0.jar"
+filename = "MagicalTorches-1.18.1-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3563/789/MagicalTorches-1.18.1-2.0.0.jar"
+url = "https://edge.forgecdn.net/files/3607/363/MagicalTorches-1.18.1-2.0.1.jar"
 hash-format = "murmur2"
-hash = "2040190794"
+hash = "456198026"
 
 [update]
 [update.curseforge]
-file-id = 3563789
+file-id = 3607363
 project-id = 389917

@@ -1,13 +1,13 @@
 name = "Ring of Teleport [FORGE]"
-filename = "RingOfTeleport-Forge-1.18.1-1.4.2.jar"
+filename = "RingOfTeleport-Forge-1.18.1-1.4.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3573/106/RingOfTeleport-Forge-1.18.1-1.4.2.jar"
+url = "https://edge.forgecdn.net/files/3609/962/RingOfTeleport-Forge-1.18.1-1.4.3.jar"
 hash-format = "murmur2"
-hash = "1711272066"
+hash = "914198795"
 
 [update]
 [update.curseforge]
-file-id = 3573106
+file-id = 3609962
 project-id = 332545

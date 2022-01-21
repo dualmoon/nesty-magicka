@@ -1,9 +1,9 @@
 name = "Industrial Agriculture"
-filename = "Industrial Agriculture[Core]-1.18.1-1.8.14.3.jar"
+filename = "Industrial Agriculture-1.18.1-1.8.14.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3583/273/Industrial Agriculture[Core]-1.18.1-1.8.14.3.jar"
+url = "https://edge.forgecdn.net/files/3583/273/Industrial Agriculture%5BCore%5D-1.18.1-1.8.14.3.jar"
 hash-format = "murmur2"
 hash = "1331282018"
 

@@ -1,9 +1,9 @@
 name = "Inventory HUD+"
-filename = "InventoryHud_[1.18].forge-3.4.4.jar"
+filename = "InventoryHud_1.18.forge-3.4.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3565/981/InventoryHud_[1.18].forge-3.4.4.jar"
+url = "https://edge.forgecdn.net/files/3565/981/InventoryHud_%5B1.18%5D.forge-3.4.4.jar"
 hash-format = "murmur2"
 hash = "1514993237"
 

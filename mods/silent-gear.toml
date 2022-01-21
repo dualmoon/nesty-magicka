@@ -1,13 +1,13 @@
 name = "Silent Gear"
-filename = "silent-gear-1.18.1-2.8.4.jar"
+filename = "silent-gear-1.18.1-2.8.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3600/192/silent-gear-1.18.1-2.8.4.jar"
+url = "https://edge.forgecdn.net/files/3615/369/silent-gear-1.18.1-2.8.6.jar"
 hash-format = "murmur2"
-hash = "2189506487"
+hash = "881801241"
 
 [update]
 [update.curseforge]
-file-id = 3600192
+file-id = 3615369
 project-id = 297039

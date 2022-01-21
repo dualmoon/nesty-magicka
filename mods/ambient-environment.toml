@@ -1,13 +1,13 @@
 name = "Ambient Environment"
-filename = "AmbientEnvironment-forge-1.18.1-7.0.3.jar"
+filename = "AmbientEnvironment-forge-1.18.1-7.0.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3566/760/AmbientEnvironment-forge-1.18.1-7.0.3.jar"
+url = "https://edge.forgecdn.net/files/3613/615/AmbientEnvironment-forge-1.18.1-7.0.4.jar"
 hash-format = "murmur2"
-hash = "541981336"
+hash = "2199170231"
 
 [update]
 [update.curseforge]
-file-id = 3566760
+file-id = 3613615
 project-id = 320163

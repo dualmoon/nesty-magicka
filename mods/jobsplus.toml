@@ -1,13 +1,13 @@
 name = "Jobs+"
-filename = "jobsplus-0.2.0.jar"
+filename = "jobsplus-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/816/jobsplus-0.2.0.jar"
+url = "https://edge.forgecdn.net/files/3604/747/jobsplus-0.2.2.jar"
 hash-format = "murmur2"
-hash = "3874218800"
+hash = "780301161"
 
 [update]
 [update.curseforge]
-file-id = 3587816
+file-id = 3604747
 project-id = 535061

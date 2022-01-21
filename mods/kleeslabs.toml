@@ -1,13 +1,13 @@
 name = "KleeSlabs"
-filename = "kleeslabs-forge-1.18-11.0.0.jar"
+filename = "kleeslabs-forge-1.18.1-11.0.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3549/469/kleeslabs-forge-1.18-11.0.0.jar"
+url = "https://edge.forgecdn.net/files/3606/197/kleeslabs-forge-1.18.1-11.0.1.jar"
 hash-format = "murmur2"
-hash = "3976512391"
+hash = "1704181437"
 
 [update]
 [update.curseforge]
-file-id = 3549469
+file-id = 3606197
 project-id = 241895

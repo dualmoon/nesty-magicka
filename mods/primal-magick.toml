@@ -1,13 +1,13 @@
 name = "Primal Magick"
-filename = "primalmagick-2.0.2.jar"
+filename = "primalmagick-2.0.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3600/736/primalmagick-2.0.2.jar"
+url = "https://edge.forgecdn.net/files/3605/410/primalmagick-2.0.3.jar"
 hash-format = "murmur2"
-hash = "2391438157"
+hash = "2834421897"
 
 [update]
 [update.curseforge]
-file-id = 3600736
+file-id = 3605410
 project-id = 545271

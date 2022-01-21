@@ -1,13 +1,13 @@
 name = "Ring of Repair [FORGE]"
-filename = "RingOfRepair-Forge-1.18.1-1.4.2.jar"
+filename = "RingOfRepair-Forge-1.18.1-1.4.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3573/105/RingOfRepair-Forge-1.18.1-1.4.2.jar"
+url = "https://edge.forgecdn.net/files/3609/995/RingOfRepair-Forge-1.18.1-1.4.3.jar"
 hash-format = "murmur2"
-hash = "4189279054"
+hash = "545458775"
 
 [update]
 [update.curseforge]
-file-id = 3573105
+file-id = 3609995
 project-id = 332518

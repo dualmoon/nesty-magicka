@@ -1,9 +1,9 @@
 name = "Just Another Rotten Flesh to Leather Mod"
-filename = "JRFTL [1.18.1]-1.4.1.jar"
+filename = "JRFTL1.18.1-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3599/525/JRFTL [1.18.1]-1.4.1.jar"
+url = "https://edge.forgecdn.net/files/3599/525/JRFTL%20%5B1.18.1%5D-1.4.1.jar"
 hash-format = "murmur2"
 hash = "667598074"
 

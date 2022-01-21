@@ -1,13 +1,13 @@
 name = "Ring of the Miner [FORGE]"
-filename = "RingOfMiner-Forge-1.18.1-1.4.2.jar"
+filename = "RingOfMiner-Forge-1.18.1-1.4.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3571/436/RingOfMiner-Forge-1.18.1-1.4.2.jar"
+url = "https://edge.forgecdn.net/files/3609/882/RingOfMiner-Forge-1.18.1-1.4.3.jar"
 hash-format = "murmur2"
-hash = "3601390647"
+hash = "1278636344"
 
 [update]
 [update.curseforge]
-file-id = 3571436
+file-id = 3609882
 project-id = 332743

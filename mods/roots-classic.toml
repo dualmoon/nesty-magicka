@@ -1,13 +1,13 @@
 name = "Roots Classic"
-filename = "RootsClassic-1.18-1.1.16.jar"
+filename = "RootsClassic-1.18.1-1.1.17.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3558/619/RootsClassic-1.18-1.1.16.jar"
+url = "https://edge.forgecdn.net/files/3615/74/RootsClassic-1.18.1-1.1.17.jar"
 hash-format = "murmur2"
-hash = "3438341570"
+hash = "2175970783"
 
 [update]
 [update.curseforge]
-file-id = 3558619
+file-id = 3615074
 project-id = 295780

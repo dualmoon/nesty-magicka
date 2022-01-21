@@ -1,13 +1,13 @@
 name = "Dimensional Dungeons"
-filename = "dimdungeons-1.13.1-forge-1.18.1.jar"
+filename = "dimdungeons-1.13.2-forge-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3580/57/dimdungeons-1.13.1-forge-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3606/987/dimdungeons-1.13.2-forge-1.18.1.jar"
 hash-format = "murmur2"
-hash = "1122954352"
+hash = "3972217440"
 
 [update]
 [update.curseforge]
-file-id = 3580057
+file-id = 3606987
 project-id = 352222

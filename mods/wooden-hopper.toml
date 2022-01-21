@@ -1,13 +1,13 @@
 name = "Wooden Hopper"
-filename = "woodenhopper-1.18-1.2.0.1.jar"
+filename = "woodenhopper-1.18.1-1.2.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3548/587/woodenhopper-1.18-1.2.0.1.jar"
+url = "https://edge.forgecdn.net/files/3608/109/woodenhopper-1.18.1-1.2.1.0.jar"
 hash-format = "murmur2"
-hash = "2632517267"
+hash = "2952004277"
 
 [update]
 [update.curseforge]
-file-id = 3548587
+file-id = 3608109
 project-id = 440985

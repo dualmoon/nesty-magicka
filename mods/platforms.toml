@@ -1,13 +1,13 @@
 name = "Platforms"
-filename = "platforms-1.18-1.9.0.jar"
+filename = "platforms-1.18-1.9.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3574/816/platforms-1.18-1.9.0.jar"
+url = "https://edge.forgecdn.net/files/3609/132/platforms-1.18-1.9.1.jar"
 hash-format = "murmur2"
-hash = "3687188813"
+hash = "2950152676"
 
 [update]
 [update.curseforge]
-file-id = 3574816
+file-id = 3609132
 project-id = 244786
