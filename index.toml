@@ -591,11 +591,6 @@ hash = "2ada67043118d2eae438f4fef6e448950f2cd3d360501b4af2286c50379ddf1f"
 metafile = true
 
 [[files]]
-file = "mods/decorative-winter.toml"
-hash = "3f149bf6475fd126e0dbba9bf99554fa79b3c21bcd46f5e3a48bf66f72cb0682"
-metafile = true
-
-[[files]]
 file = "mods/dimensional-dungeons.toml"
 hash = "8c75be0e36246f6936279d03641f2bd0589e39cd7b97c337f91df9906d53db30"
 metafile = true
