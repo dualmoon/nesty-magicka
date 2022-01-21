@@ -1,0 +1,13 @@
+name = "Better Ping Display"
+filename = "BetterPingDisplay-1.18.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/827/BetterPingDisplay-1.18.1-1.1.jar"
+hash-format = "murmur2"
+hash = "1692320833"
+
+[update]
+[update.curseforge]
+file-id = 3596827
+project-id = 292038

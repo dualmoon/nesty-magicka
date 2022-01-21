@@ -1,0 +1,13 @@
+name = "\"To the Bat Poles!\""
+filename = "AdPoles-1.18.1-6.0.0.1-build.0043.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/155/AdPoles-1.18.1-6.0.0.1-build.0043.jar"
+hash-format = "murmur2"
+hash = "1529180265"
+
+[update]
+[update.curseforge]
+file-id = 3578155
+project-id = 272190

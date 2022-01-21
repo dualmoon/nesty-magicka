@@ -1,0 +1,13 @@
+name = "Cottonly"
+filename = "cottonly-0.9.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3598/637/cottonly-0.9.6.jar"
+hash-format = "murmur2"
+hash = "2538210267"
+
+[update]
+[update.curseforge]
+file-id = 3598637
+project-id = 515461

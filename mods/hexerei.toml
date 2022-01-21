@@ -1,0 +1,13 @@
+name = "Hexerei"
+filename = "hexerei-0.1.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3590/751/hexerei-0.1.11.jar"
+hash-format = "murmur2"
+hash = "2877993784"
+
+[update]
+[update.curseforge]
+file-id = 3590751
+project-id = 548599

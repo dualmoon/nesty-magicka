@@ -1,0 +1,13 @@
+name = "Trading Post [Forge]"
+filename = "TradingPost-v3.1.2-1.18.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3569/715/TradingPost-v3.1.2-1.18.1-Forge.jar"
+hash-format = "murmur2"
+hash = "62570326"
+
+[update]
+[update.curseforge]
+file-id = 3569715
+project-id = 539057

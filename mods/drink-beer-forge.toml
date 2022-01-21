@@ -1,0 +1,13 @@
+name = "Drink Beer (Forge)"
+filename = "drinkbeer-v2.3.5 for 1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3571/682/drinkbeer-v2.3.5 for 1.18.1.jar"
+hash-format = "murmur2"
+hash = "1958218525"
+
+[update]
+[update.curseforge]
+file-id = 3571682
+project-id = 534161

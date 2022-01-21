@@ -1,0 +1,13 @@
+name = "Stone Chest"
+filename = "StoneChest-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/545/StoneChest-1.18.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1442593615"
+
+[update]
+[update.curseforge]
+file-id = 3570545
+project-id = 307052

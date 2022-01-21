@@ -1,0 +1,13 @@
+name = "Ars Elemental - Elemental Spell Foci"
+filename = "ars_elemental-1.18.1-0.1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/593/ars_elemental-1.18.1-0.1.9.jar"
+hash-format = "murmur2"
+hash = "2591476743"
+
+[update]
+[update.curseforge]
+file-id = 3599593
+project-id = 561470

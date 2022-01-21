@@ -1,0 +1,13 @@
+name = "Treasure Bags"
+filename = "treasure-bags-1.18-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/270/treasure-bags-1.18-1.6.0.jar"
+hash-format = "murmur2"
+hash = "3102205106"
+
+[update]
+[update.curseforge]
+file-id = 3550270
+project-id = 318299

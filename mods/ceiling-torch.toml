@@ -1,0 +1,13 @@
+name = "Ceiling Torch"
+filename = "ceilingtorch-1.18-1.13.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/571/ceilingtorch-1.18-1.13.2.jar"
+hash-format = "murmur2"
+hash = "994064069"
+
+[update]
+[update.curseforge]
+file-id = 3553571
+project-id = 326599

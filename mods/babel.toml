@@ -1,0 +1,13 @@
+name = "Babel"
+filename = "Babel-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3595/976/Babel-3.0.1.jar"
+hash-format = "murmur2"
+hash = "3373023644"
+
+[update]
+[update.curseforge]
+file-id = 3595976
+project-id = 436964

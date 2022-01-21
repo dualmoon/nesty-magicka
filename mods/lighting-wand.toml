@@ -1,0 +1,13 @@
+name = "Lighting Wand 🌟 (Forge)"
+filename = "LightingWand-1.18-forge-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3552/855/LightingWand-1.18-forge-3.0.0.jar"
+hash-format = "murmur2"
+hash = "2333004798"
+
+[update]
+[update.curseforge]
+file-id = 3552855
+project-id = 296028

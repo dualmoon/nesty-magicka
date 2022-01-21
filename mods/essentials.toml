@@ -1,0 +1,13 @@
+name = "Essentials"
+filename = "essentials-1.18.1-2.13.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/338/essentials-1.18.1-2.13.2.jar"
+hash-format = "murmur2"
+hash = "3922545312"
+
+[update]
+[update.curseforge]
+file-id = 3580338
+project-id = 293752

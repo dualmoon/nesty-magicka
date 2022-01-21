@@ -1,0 +1,13 @@
+name = "Item Highlighter"
+filename = "Highlighter-1.18.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/221/Highlighter-1.18.1-1.1.2.jar"
+hash-format = "murmur2"
+hash = "2201647998"
+
+[update]
+[update.curseforge]
+file-id = 3561221
+project-id = 521590

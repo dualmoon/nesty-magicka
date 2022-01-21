@@ -1,0 +1,13 @@
+name = "FastFurnace"
+filename = "FastFurnace-1.18.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3568/851/FastFurnace-1.18.1-6.0.1.jar"
+hash-format = "murmur2"
+hash = "2073682466"
+
+[update]
+[update.curseforge]
+file-id = 3568851
+project-id = 299540

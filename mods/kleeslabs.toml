@@ -1,0 +1,13 @@
+name = "KleeSlabs"
+filename = "kleeslabs-forge-1.18-11.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/469/kleeslabs-forge-1.18-11.0.0.jar"
+hash-format = "murmur2"
+hash = "3976512391"
+
+[update]
+[update.curseforge]
+file-id = 3549469
+project-id = 241895

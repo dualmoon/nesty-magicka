@@ -1,0 +1,13 @@
+name = "FlickerFix"
+filename = "flickerfix-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/460/flickerfix-2.0.0.jar"
+hash-format = "murmur2"
+hash = "3130837922"
+
+[update]
+[update.curseforge]
+file-id = 3544460
+project-id = 431430

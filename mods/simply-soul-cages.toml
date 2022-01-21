@@ -1,0 +1,13 @@
+name = "Simply Soul Cages"
+filename = "simply_soul_cages-0.2A.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/197/simply_soul_cages-0.2A.jar"
+hash-format = "murmur2"
+hash = "2665794338"
+
+[update]
+[update.curseforge]
+file-id = 3576197
+project-id = 556323

@@ -1,0 +1,13 @@
+name = "Restored Earth"
+filename = "restored_earth-1.18.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/945/restored_earth-1.18.1-1.4.0.jar"
+hash-format = "murmur2"
+hash = "1209709403"
+
+[update]
+[update.curseforge]
+file-id = 3596945
+project-id = 523197

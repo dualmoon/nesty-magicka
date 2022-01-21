@@ -1,0 +1,13 @@
+name = "Pehkui"
+filename = "Pehkui-3.1.0+1.18.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3577/84/Pehkui-3.1.0+1.18.1-forge.jar"
+hash-format = "murmur2"
+hash = "3449073489"
+
+[update]
+[update.curseforge]
+file-id = 3577084
+project-id = 319596

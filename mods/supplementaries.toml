@@ -1,0 +1,13 @@
+name = "Supplementaries"
+filename = "supplementaries-1.18.1-1.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/977/supplementaries-1.18.1-1.1.7.jar"
+hash-format = "murmur2"
+hash = "4139927522"
+
+[update]
+[update.curseforge]
+file-id = 3600977
+project-id = 412082

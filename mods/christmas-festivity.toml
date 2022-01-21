@@ -1,0 +1,13 @@
+name = "Christmas Festivity"
+filename = "christmasfestivity-1.4.7-1.18.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3569/812/christmasfestivity-1.4.7-1.18.1-forge.jar"
+hash-format = "murmur2"
+hash = "1790267543"
+
+[update]
+[update.curseforge]
+file-id = 3569812
+project-id = 282604

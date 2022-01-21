@@ -1,0 +1,13 @@
+name = "XP Tome"
+filename = "xptome-1.18-2.1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/545/xptome-1.18-2.1.3.jar"
+hash-format = "murmur2"
+hash = "2162906166"
+
+[update]
+[update.curseforge]
+file-id = 3543545
+project-id = 344787

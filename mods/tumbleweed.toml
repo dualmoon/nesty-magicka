@@ -1,0 +1,13 @@
+name = "Tumbleweed"
+filename = "tumbleweed-1.18-0.4.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3581/34/tumbleweed-1.18-0.4.11.jar"
+hash-format = "murmur2"
+hash = "103517332"
+
+[update]
+[update.curseforge]
+file-id = 3581034
+project-id = 245028

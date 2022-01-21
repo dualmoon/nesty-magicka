@@ -1,0 +1,13 @@
+name = "Parry This!"
+filename = "parrying-1.18.1-2.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/101/parrying-1.18.1-2.3.jar"
+hash-format = "murmur2"
+hash = "2511909728"
+
+[update]
+[update.curseforge]
+file-id = 3580101
+project-id = 479996

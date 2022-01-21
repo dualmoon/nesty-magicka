@@ -1,0 +1,13 @@
+name = "Additional Bars [FORGE]"
+filename = "1.18.1-additionalbars-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3577/982/1.18.1-additionalbars-2.3.0.jar"
+hash-format = "murmur2"
+hash = "2838203864"
+
+[update]
+[update.curseforge]
+file-id = 3577982
+project-id = 357362

@@ -1,0 +1,13 @@
+name = "ATO - All the Ores"
+filename = "alltheores-1.7.5-1.18.1-39.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/393/alltheores-1.7.5-1.18.1-39.0.0.jar"
+hash-format = "murmur2"
+hash = "81708150"
+
+[update]
+[update.curseforge]
+file-id = 3584393
+project-id = 405593

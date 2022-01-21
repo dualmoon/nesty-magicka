@@ -1,0 +1,13 @@
+name = "Ranged Wireless Redstone"
+filename = "rangedwirelessredstone-1.18-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/924/rangedwirelessredstone-1.18-2.0.1.jar"
+hash-format = "murmur2"
+hash = "1234102499"
+
+[update]
+[update.curseforge]
+file-id = 3573924
+project-id = 530779

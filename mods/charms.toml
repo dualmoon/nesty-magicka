@@ -1,0 +1,13 @@
+name = "Charms"
+filename = "charms-1.18.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/480/charms-1.18.1-1.0.3.jar"
+hash-format = "murmur2"
+hash = "3120735742"
+
+[update]
+[update.curseforge]
+file-id = 3586480
+project-id = 420955

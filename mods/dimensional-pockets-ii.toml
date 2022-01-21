@@ -1,0 +1,13 @@
+name = "Dimensional Pockets II"
+filename = "dimensionalpocketsii-1.18.1-5.1.0.30-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/910/dimensionalpocketsii-1.18.1-5.1.0.30-universal.jar"
+hash-format = "murmur2"
+hash = "1084577466"
+
+[update]
+[update.curseforge]
+file-id = 3597910
+project-id = 282573

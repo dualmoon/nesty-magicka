@@ -1,0 +1,13 @@
+name = "MineColonies"
+filename = "minecolonies-1.18.1-1.0.336-BETA.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/965/minecolonies-1.18.1-1.0.336-BETA.jar"
+hash-format = "murmur2"
+hash = "2793554613"
+
+[update]
+[update.curseforge]
+file-id = 3599965
+project-id = 245506

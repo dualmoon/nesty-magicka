@@ -1,0 +1,13 @@
+name = "Large Ore Deposits"
+filename = "AdLods-1.18.1-5.0.0.0-build.0044.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/314/AdLods-1.18.1-5.0.0.0-build.0044.jar"
+hash-format = "murmur2"
+hash = "724719386"
+
+[update]
+[update.curseforge]
+file-id = 3579314
+project-id = 318833

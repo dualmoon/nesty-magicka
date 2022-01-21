@@ -1,0 +1,13 @@
+name = "Cake Chomps (Forge)"
+filename = "cakechomps-forge-1.18-5.1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/957/cakechomps-forge-1.18-5.1.0.0.jar"
+hash-format = "murmur2"
+hash = "2879949581"
+
+[update]
+[update.curseforge]
+file-id = 3555957
+project-id = 307943

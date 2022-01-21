@@ -1,0 +1,13 @@
+name = "Ring of Blink [FORGE]"
+filename = "RingOfBlink-Forge-1.18.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/102/RingOfBlink-Forge-1.18.1-1.4.2.jar"
+hash-format = "murmur2"
+hash = "79755679"
+
+[update]
+[update.curseforge]
+file-id = 3573102
+project-id = 332562

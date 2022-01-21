@@ -1,0 +1,13 @@
+name = "Ignition: EnderBags"
+filename = "EnderBags-1.18.1-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3567/202/EnderBags-1.18.1-8.0.0.jar"
+hash-format = "murmur2"
+hash = "3942790472"
+
+[update]
+[update.curseforge]
+file-id = 3567202
+project-id = 283976

@@ -1,0 +1,13 @@
+name = "MoreVanillaLib"
+filename = "MoreVanillaLib-1.18.1-3.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/844/MoreVanillaLib-1.18.1-3.0.3.jar"
+hash-format = "murmur2"
+hash = "2877615030"
+
+[update]
+[update.curseforge]
+file-id = 3586844
+project-id = 367254

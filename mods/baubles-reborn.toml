@@ -1,0 +1,13 @@
+name = "Baubles - Reborn?"
+filename = "baubles-1.10.0.1-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/950/baubles-1.10.0.1-1.18.1.jar"
+hash-format = "murmur2"
+hash = "579826720"
+
+[update]
+[update.curseforge]
+file-id = 3576950
+project-id = 366844

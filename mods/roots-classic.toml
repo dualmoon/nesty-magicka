@@ -1,0 +1,13 @@
+name = "Roots Classic"
+filename = "RootsClassic-1.18-1.1.16.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/619/RootsClassic-1.18-1.1.16.jar"
+hash-format = "murmur2"
+hash = "3438341570"
+
+[update]
+[update.curseforge]
+file-id = 3558619
+project-id = 295780

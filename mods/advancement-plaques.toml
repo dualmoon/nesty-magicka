@@ -1,0 +1,13 @@
+name = "Advancement Plaques"
+filename = "AdvancementPlaques-1.18.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/905/AdvancementPlaques-1.18.1-1.4.2.jar"
+hash-format = "murmur2"
+hash = "4291877665"
+
+[update]
+[update.curseforge]
+file-id = 3576905
+project-id = 499826

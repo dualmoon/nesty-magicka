@@ -1,0 +1,13 @@
+name = "ExtraGems"
+filename = "ExtraGems-1.18-(v.2.0.8).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3601/440/ExtraGems-1.18-(v.2.0.8).jar"
+hash-format = "murmur2"
+hash = "2892027195"
+
+[update]
+[update.curseforge]
+file-id = 3601440
+project-id = 279180

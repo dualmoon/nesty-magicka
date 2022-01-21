@@ -1,0 +1,13 @@
+name = "Slab Machines"
+filename = "SlabMachines-1.18.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3558/750/SlabMachines-1.18.1-1.1.1.jar"
+hash-format = "murmur2"
+hash = "1308837939"
+
+[update]
+[update.curseforge]
+file-id = 3558750
+project-id = 301854

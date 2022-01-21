@@ -1,0 +1,13 @@
+name = "Monke Madness"
+filename = "Monke Madness 1.11.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/665/Monke Madness 1.11.2.jar"
+hash-format = "murmur2"
+hash = "607278896"
+
+[update]
+[update.curseforge]
+file-id = 3596665
+project-id = 460127

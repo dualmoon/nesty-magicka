@@ -1,0 +1,13 @@
+name = "Nameless Trinkets"
+filename = "Nameless Trinkets-1.18.1-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/573/Nameless Trinkets-1.18.1-1.3.2.jar"
+hash-format = "murmur2"
+hash = "1962017824"
+
+[update]
+[update.curseforge]
+file-id = 3596573
+project-id = 541466

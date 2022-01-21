@@ -1,0 +1,13 @@
+name = "Beenfo"
+filename = "beenfo-1.18.1-forge39.0.9-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/116/beenfo-1.18.1-forge39.0.9-1.2.jar"
+hash-format = "murmur2"
+hash = "1538518528"
+
+[update]
+[update.curseforge]
+file-id = 3584116
+project-id = 357256

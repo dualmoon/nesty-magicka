@@ -1,0 +1,13 @@
+name = "Runelic"
+filename = "Runelic-Forge-1.18.1-10.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/818/Runelic-Forge-1.18.1-10.0.1.jar"
+hash-format = "murmur2"
+hash = "763366892"
+
+[update]
+[update.curseforge]
+file-id = 3578818
+project-id = 393149

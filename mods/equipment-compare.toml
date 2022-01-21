@@ -1,0 +1,13 @@
+name = "Equipment Compare"
+filename = "EquipmentCompare-1.18.1-1.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/250/EquipmentCompare-1.18.1-1.2.10.jar"
+hash-format = "murmur2"
+hash = "2152059621"
+
+[update]
+[update.curseforge]
+file-id = 3586250
+project-id = 502561

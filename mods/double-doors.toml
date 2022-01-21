@@ -1,0 +1,13 @@
+name = "Double Doors (Forge)"
+filename = "doubledoors_1.18.1-3.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/569/doubledoors_1.18.1-3.2.jar"
+hash-format = "murmur2"
+hash = "482313872"
+
+[update]
+[update.curseforge]
+file-id = 3561569
+project-id = 348831

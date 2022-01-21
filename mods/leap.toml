@@ -1,0 +1,13 @@
+name = "Leap"
+filename = "leap-1.18-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/81/leap-1.18-1.1.2.jar"
+hash-format = "murmur2"
+hash = "4214799714"
+
+[update]
+[update.curseforge]
+file-id = 3544081
+project-id = 371402

@@ -1,0 +1,13 @@
+name = "Panthalassa"
+filename = "panthalassa-0.8.0+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/59/panthalassa-0.8.0+1.18.1.jar"
+hash-format = "murmur2"
+hash = "991320565"
+
+[update]
+[update.curseforge]
+file-id = 3587059
+project-id = 554120

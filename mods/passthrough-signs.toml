@@ -1,0 +1,13 @@
+name = "Passthrough Signs"
+filename = "PassthroughSigns-1.18-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/561/PassthroughSigns-1.18-2.5.0.jar"
+hash-format = "murmur2"
+hash = "1561886407"
+
+[update]
+[update.curseforge]
+file-id = 3546561
+project-id = 224633

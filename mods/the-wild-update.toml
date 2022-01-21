@@ -1,0 +1,13 @@
+name = "The Wild Update 1.19 [FORGE]"
+filename = "The_Wild_Update_Mod_V1.1_Minecraft_1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3601/248/The_Wild_Update_Mod_V1.1_Minecraft_1.18.1.jar"
+hash-format = "murmur2"
+hash = "2241300513"
+
+[update]
+[update.curseforge]
+file-id = 3601248
+project-id = 537490

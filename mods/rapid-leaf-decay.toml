@@ -1,0 +1,13 @@
+name = "Rapid Leaf Decay"
+filename = "RapidLeafDecay-1.18.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3563/779/RapidLeafDecay-1.18.1-2.0.0.jar"
+hash-format = "murmur2"
+hash = "518323937"
+
+[update]
+[update.curseforge]
+file-id = 3563779
+project-id = 396847

@@ -1,0 +1,13 @@
+name = "U Team Core"
+filename = "u_team_core-1.18.1-4.0.0.201-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3583/977/u_team_core-1.18.1-4.0.0.201-SNAPSHOT.jar"
+hash-format = "murmur2"
+hash = "2133657152"
+
+[update]
+[update.curseforge]
+file-id = 3583977
+project-id = 273744

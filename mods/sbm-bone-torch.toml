@@ -1,0 +1,13 @@
+name = "[SBM] Bone Torch"
+filename = "SBM-BoneTorch-1.18-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/564/SBM-BoneTorch-1.18-0.0.2.jar"
+hash-format = "murmur2"
+hash = "1082177279"
+
+[update]
+[update.curseforge]
+file-id = 3553564
+project-id = 238695

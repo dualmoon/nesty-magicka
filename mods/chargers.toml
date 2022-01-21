@@ -1,0 +1,13 @@
+name = "Chargers"
+filename = "Chargers-1.18.1-4.1.0.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/302/Chargers-1.18.1-4.1.0.12.jar"
+hash-format = "murmur2"
+hash = "1961007943"
+
+[update]
+[update.curseforge]
+file-id = 3597302
+project-id = 290433

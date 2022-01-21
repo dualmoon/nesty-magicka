@@ -1,0 +1,13 @@
+name = "Curious Elytra (Forge)"
+filename = "curiouselytra-forge-1.18.1-5.0.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3569/452/curiouselytra-forge-1.18.1-5.0.0.1.jar"
+hash-format = "murmur2"
+hash = "1885160660"
+
+[update]
+[update.curseforge]
+file-id = 3569452
+project-id = 317716

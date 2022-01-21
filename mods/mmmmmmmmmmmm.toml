@@ -1,0 +1,13 @@
+name = "MmmMmmMmmMmm (Target Dummy)"
+filename = "MmmMmmMmmMmm-1.18-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/593/MmmMmmMmmMmm-1.18-1.5.0.jar"
+hash-format = "murmur2"
+hash = "2653122130"
+
+[update]
+[update.curseforge]
+file-id = 3546593
+project-id = 225738

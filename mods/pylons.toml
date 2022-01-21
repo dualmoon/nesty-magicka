@@ -1,0 +1,13 @@
+name = "Pylons"
+filename = "pylons-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3593/224/pylons-2.0.6.jar"
+hash-format = "murmur2"
+hash = "3305356529"
+
+[update]
+[update.curseforge]
+file-id = 3593224
+project-id = 518211

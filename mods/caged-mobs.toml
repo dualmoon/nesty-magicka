@@ -1,0 +1,13 @@
+name = "Caged Mobs"
+filename = "cagedmobs-1.18.1-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3592/290/cagedmobs-1.18.1-1.5.0.jar"
+hash-format = "murmur2"
+hash = "2083405471"
+
+[update]
+[update.curseforge]
+file-id = 3592290
+project-id = 417179

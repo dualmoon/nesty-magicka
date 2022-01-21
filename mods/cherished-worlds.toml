@@ -1,0 +1,13 @@
+name = "Cherished Worlds (Forge)"
+filename = "cherishedworlds-forge-1.18-5.1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/949/cherishedworlds-forge-1.18-5.1.1.0.jar"
+hash-format = "murmur2"
+hash = "4115367480"
+
+[update]
+[update.curseforge]
+file-id = 3544949
+project-id = 308240

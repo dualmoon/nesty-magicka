@@ -1,0 +1,13 @@
+name = "PackMenu"
+filename = "PackMenu-1.18-4.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3554/547/PackMenu-1.18-4.0.0.jar"
+hash-format = "murmur2"
+hash = "2613395402"
+
+[update]
+[update.curseforge]
+file-id = 3554547
+project-id = 358191

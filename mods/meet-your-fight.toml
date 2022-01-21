@@ -1,0 +1,13 @@
+name = "Meet Your Fight"
+filename = "meetyourfight-1.18-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3551/713/meetyourfight-1.18-1.2.2.jar"
+hash-format = "murmur2"
+hash = "2868561136"
+
+[update]
+[update.curseforge]
+file-id = 3551713
+project-id = 409371

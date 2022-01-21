@@ -1,0 +1,13 @@
+name = "Ring of the Unseen [FORGE]"
+filename = "RingOfUnseen-Forge-1.18.1-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/99/RingOfUnseen-Forge-1.18.1-1.2.2.jar"
+hash-format = "murmur2"
+hash = "545060087"
+
+[update]
+[update.curseforge]
+file-id = 3573099
+project-id = 412489

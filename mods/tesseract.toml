@@ -1,0 +1,13 @@
+name = "Tesseract"
+filename = "tesseract-1.0.24-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/55/tesseract-1.0.24-mc1.18.jar"
+hash-format = "murmur2"
+hash = "2636119069"
+
+[update]
+[update.curseforge]
+file-id = 3544055
+project-id = 379232

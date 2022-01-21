@@ -1,0 +1,13 @@
+name = "Token Enchanter"
+filename = "token-enchanter-1.18.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/237/token-enchanter-1.18.1-1.2.0.jar"
+hash-format = "murmur2"
+hash = "2732496094"
+
+[update]
+[update.curseforge]
+file-id = 3559237
+project-id = 444421

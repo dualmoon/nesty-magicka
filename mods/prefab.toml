@@ -1,0 +1,13 @@
+name = "Prefab"
+filename = "prefab-1.8.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3585/977/prefab-1.8.1.0.jar"
+hash-format = "murmur2"
+hash = "999455025"
+
+[update]
+[update.curseforge]
+file-id = 3585977
+project-id = 246550

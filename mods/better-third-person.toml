@@ -1,0 +1,13 @@
+name = "Better Third Person"
+filename = "BetterThirdPerson-Forge-1.18-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3582/45/BetterThirdPerson-Forge-1.18-1.6.0.jar"
+hash-format = "murmur2"
+hash = "3834148548"
+
+[update]
+[update.curseforge]
+file-id = 3582045
+project-id = 435044

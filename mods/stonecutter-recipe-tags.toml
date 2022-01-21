@@ -1,0 +1,13 @@
+name = "Stonecutter Recipe Tags"
+filename = "stonecutter_recipe_tags-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3529/952/stonecutter_recipe_tags-2.0.1.jar"
+hash-format = "murmur2"
+hash = "426598609"
+
+[update]
+[update.curseforge]
+file-id = 3529952
+project-id = 548154

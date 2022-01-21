@@ -1,0 +1,13 @@
+name = "Cosmos Library"
+filename = "cosmoslibrary-1.18.1-5.1.2.70-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/697/cosmoslibrary-1.18.1-5.1.2.70-universal.jar"
+hash-format = "murmur2"
+hash = "1396329399"
+
+[update]
+[update.curseforge]
+file-id = 3596697
+project-id = 282574

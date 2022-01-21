@@ -1,0 +1,13 @@
+name = "Occultism"
+filename = "occultism-1.18.1-1.25.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/838/occultism-1.18.1-1.25.2.jar"
+hash-format = "murmur2"
+hash = "302662113"
+
+[update]
+[update.curseforge]
+file-id = 3600838
+project-id = 361026

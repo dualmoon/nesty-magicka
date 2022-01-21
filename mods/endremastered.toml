@@ -1,0 +1,13 @@
+name = "End Remastered"
+filename = "endrem_forge-5.0.1-R-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/701/endrem_forge-5.0.1-R-1.18.1.jar"
+hash-format = "murmur2"
+hash = "4081508914"
+
+[update]
+[update.curseforge]
+file-id = 3600701
+project-id = 404183

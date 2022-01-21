@@ -1,0 +1,13 @@
+name = "Stack Refill (Forge)"
+filename = "stackrefill_1.18.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/438/stackrefill_1.18.1-2.1.jar"
+hash-format = "murmur2"
+hash = "1834770384"
+
+[update]
+[update.curseforge]
+file-id = 3561438
+project-id = 411813

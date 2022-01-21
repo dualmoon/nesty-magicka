@@ -1,0 +1,13 @@
+name = "Nyf's Quivers"
+filename = "NyfsQuiver-1.18.1-0.6.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/143/NyfsQuiver-1.18.1-0.6.4.jar"
+hash-format = "murmur2"
+hash = "113454532"
+
+[update]
+[update.curseforge]
+file-id = 3587143
+project-id = 482731

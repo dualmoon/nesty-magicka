@@ -1,0 +1,13 @@
+name = "Enderthing"
+filename = "Enderthing-1.18-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3548/915/Enderthing-1.18-1.2.0.jar"
+hash-format = "murmur2"
+hash = "85253103"
+
+[update]
+[update.curseforge]
+file-id = 3548915
+project-id = 244421

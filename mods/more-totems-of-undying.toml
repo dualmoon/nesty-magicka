@@ -1,0 +1,13 @@
+name = "More Totems Of Undying"
+filename = "more-totems-mod-2.9.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3580/352/more-totems-mod-2.9.0.jar"
+hash-format = "murmur2"
+hash = "1687433660"
+
+[update]
+[update.curseforge]
+file-id = 3580352
+project-id = 357265

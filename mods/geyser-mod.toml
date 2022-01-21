@@ -1,0 +1,13 @@
+name = "Geyser Mod"
+filename = "geysermod-1.18.1-1.0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3594/46/geysermod-1.18.1-1.0.2.0.jar"
+hash-format = "murmur2"
+hash = "2707048655"
+
+[update]
+[update.curseforge]
+file-id = 3594046
+project-id = 386327

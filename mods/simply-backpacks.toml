@@ -1,0 +1,13 @@
+name = "Simply Backpacks"
+filename = "simplybackpacks-1.18-2.0.1-build.28.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/934/simplybackpacks-1.18-2.0.1-build.28.jar"
+hash-format = "murmur2"
+hash = "807438839"
+
+[update]
+[update.curseforge]
+file-id = 3566934
+project-id = 311595

@@ -1,0 +1,13 @@
+name = "Convenient Curios Container"
+filename = "convenientcurioscontainer-1.1-1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/560/convenientcurioscontainer-1.1-1.18.jar"
+hash-format = "murmur2"
+hash = "3272875141"
+
+[update]
+[update.curseforge]
+file-id = 3545560
+project-id = 544033

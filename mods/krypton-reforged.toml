@@ -1,0 +1,13 @@
+name = "Krypton Reforged"
+filename = "krypton-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3590/672/krypton-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3857386357"
+
+[update]
+[update.curseforge]
+file-id = 3590672
+project-id = 549394

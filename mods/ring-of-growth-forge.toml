@@ -1,0 +1,13 @@
+name = "Ring of Growth [FORGE]"
+filename = "RingOfGrowth-Forge-1.18.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3574/358/RingOfGrowth-Forge-1.18.1-1.4.3.jar"
+hash-format = "murmur2"
+hash = "3643250072"
+
+[update]
+[update.curseforge]
+file-id = 3574358
+project-id = 332534

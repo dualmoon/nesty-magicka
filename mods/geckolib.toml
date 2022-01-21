@@ -1,0 +1,13 @@
+name = "GeckoLib"
+filename = "geckolib-1.18-forge-3.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3601/144/geckolib-1.18-forge-3.0.4.jar"
+hash-format = "murmur2"
+hash = "2365576553"
+
+[update]
+[update.curseforge]
+file-id = 3601144
+project-id = 388172

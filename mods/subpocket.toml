@@ -1,0 +1,13 @@
+name = "subpocket"
+filename = "subpocket-1.18-8.0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/45/subpocket-1.18-8.0.1.0.jar"
+hash-format = "murmur2"
+hash = "1788808407"
+
+[update]
+[update.curseforge]
+file-id = 3566045
+project-id = 275425

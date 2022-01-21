@@ -1,0 +1,13 @@
+name = "Village Spawn Point (Forge)"
+filename = "villagespawnpoint_1.18.1-1.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/424/villagespawnpoint_1.18.1-1.9.jar"
+hash-format = "murmur2"
+hash = "1654282336"
+
+[update]
+[update.curseforge]
+file-id = 3561424
+project-id = 347381

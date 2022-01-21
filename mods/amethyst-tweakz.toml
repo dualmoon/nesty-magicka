@@ -1,0 +1,13 @@
+name = "Amethyst Tweakz"
+filename = "AmethystTweakz.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3585/926/AmethystTweakz.jar"
+hash-format = "murmur2"
+hash = "2368863849"
+
+[update]
+[update.curseforge]
+file-id = 3585926
+project-id = 561616

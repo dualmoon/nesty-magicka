@@ -1,0 +1,13 @@
+name = "Signpost"
+filename = "signpost-1.18.1-2.00.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/274/signpost-1.18.1-2.00.4.jar"
+hash-format = "murmur2"
+hash = "3002727397"
+
+[update]
+[update.curseforge]
+file-id = 3600274
+project-id = 261837

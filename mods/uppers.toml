@@ -1,0 +1,13 @@
+name = "Uppers"
+filename = "Uppers-0.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3556/501/Uppers-0.4.0.jar"
+hash-format = "murmur2"
+hash = "2672866679"
+
+[update]
+[update.curseforge]
+file-id = 3556501
+project-id = 281274

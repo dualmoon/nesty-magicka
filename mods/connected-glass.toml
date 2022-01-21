@@ -1,0 +1,13 @@
+name = "Connected Glass"
+filename = "connectedglass-1.1.1-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/62/connectedglass-1.1.1-mc1.18.jar"
+hash-format = "murmur2"
+hash = "568453226"
+
+[update]
+[update.curseforge]
+file-id = 3544062
+project-id = 383129

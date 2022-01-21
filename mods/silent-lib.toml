@@ -1,0 +1,13 @@
+name = "Silent Lib (silentlib)"
+filename = "silent-lib-1.18-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3543/45/silent-lib-1.18-6.0.0.jar"
+hash-format = "murmur2"
+hash = "2964019130"
+
+[update]
+[update.curseforge]
+file-id = 3543045
+project-id = 242998

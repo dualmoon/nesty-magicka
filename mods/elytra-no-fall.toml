@@ -1,0 +1,13 @@
+name = "Elytra No Fall"
+filename = "ElytraNoFall-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3570/628/ElytraNoFall-1.18.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1867361418"
+
+[update]
+[update.curseforge]
+file-id = 3570628
+project-id = 539767

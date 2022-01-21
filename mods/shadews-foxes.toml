@@ -1,0 +1,13 @@
+name = "Shadew's Foxes"
+filename = "foxes-1.2+forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3585/626/foxes-1.2+forge.jar"
+hash-format = "murmur2"
+hash = "1266931363"
+
+[update]
+[update.curseforge]
+file-id = 3585626
+project-id = 523225

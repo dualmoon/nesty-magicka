@@ -1,0 +1,13 @@
+name = "Block Layering"
+filename = "blocklayering-1.18-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/34/blocklayering-1.18-1.0.1.jar"
+hash-format = "murmur2"
+hash = "3471110592"
+
+[update]
+[update.curseforge]
+file-id = 3544034
+project-id = 305561

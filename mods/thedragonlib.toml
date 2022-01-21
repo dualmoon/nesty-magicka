@@ -1,0 +1,13 @@
+name = "TheDragonLib"
+filename = "thedragonlib-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/757/thedragonlib-1.18.1-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2505109401"
+
+[update]
+[update.curseforge]
+file-id = 3584757
+project-id = 248055

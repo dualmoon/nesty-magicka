@@ -1,0 +1,13 @@
+name = "ArmorPlus"
+filename = "armorplus-1.18.1-18.0.2-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3591/94/armorplus-1.18.1-18.0.2-beta.jar"
+hash-format = "murmur2"
+hash = "3373473399"
+
+[update]
+[update.curseforge]
+file-id = 3591094
+project-id = 237366

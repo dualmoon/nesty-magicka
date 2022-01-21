@@ -1,0 +1,13 @@
+name = "Flopper"
+filename = "Flopper-1.18.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/788/Flopper-1.18.1-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3737668107"
+
+[update]
+[update.curseforge]
+file-id = 3576788
+project-id = 290404

@@ -1,0 +1,13 @@
+name = "Trash Cans"
+filename = "trashcans-1.0.12-mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/654/trashcans-1.0.12-mc1.18.jar"
+hash-format = "murmur2"
+hash = "2520973240"
+
+[update]
+[update.curseforge]
+file-id = 3597654
+project-id = 394535

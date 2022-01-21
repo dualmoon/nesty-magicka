@@ -1,0 +1,13 @@
+name = "Water Strainer"
+filename = "WaterStrainer-1.18-12.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3553/535/WaterStrainer-1.18-12.1.0.jar"
+hash-format = "murmur2"
+hash = "1191453400"
+
+[update]
+[update.curseforge]
+file-id = 3553535
+project-id = 246939

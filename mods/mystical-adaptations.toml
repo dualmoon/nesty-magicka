@@ -1,0 +1,13 @@
+name = "Mystical Adaptations"
+filename = "MysticalAdaptations-1.18.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3577/426/MysticalAdaptations-1.18.1-1.0.jar"
+hash-format = "murmur2"
+hash = "2610298726"
+
+[update]
+[update.curseforge]
+file-id = 3577426
+project-id = 325892

@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.18.1-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/369/Notes-1.18.1-1.2.4.jar"
+hash-format = "murmur2"
+hash = "3084294307"
+
+[update]
+[update.curseforge]
+file-id = 3596369
+project-id = 256087

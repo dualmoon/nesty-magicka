@@ -1,0 +1,13 @@
+name = "Ring of the Enderchest [FORGE]"
+filename = "RingOfEnderchest-Forge-1.18.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/101/RingOfEnderchest-Forge-1.18.1-1.4.2.jar"
+hash-format = "murmur2"
+hash = "103149262"
+
+[update]
+[update.curseforge]
+file-id = 3573101
+project-id = 332596

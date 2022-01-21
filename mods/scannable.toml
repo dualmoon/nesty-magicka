@@ -1,0 +1,13 @@
+name = "Scannable"
+filename = "scannable-1.18.1-forge-1.7.6+da03abb.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3565/724/scannable-1.18.1-forge-1.7.6+da03abb.jar"
+hash-format = "murmur2"
+hash = "1327220153"
+
+[update]
+[update.curseforge]
+file-id = 3565724
+project-id = 266784

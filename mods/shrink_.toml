@@ -1,0 +1,13 @@
+name = "Shrink."
+filename = "Shrink-1.18.1-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/970/Shrink-1.18.1-1.3.0.jar"
+hash-format = "murmur2"
+hash = "2666173473"
+
+[update]
+[update.curseforge]
+file-id = 3576970
+project-id = 426386

@@ -1,0 +1,13 @@
+name = "Craftable Horse Armour & Saddle [CHA&S]"
+filename = "Craftable Horse Armour  Saddle-1.18-1.8-Forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/419/Craftable Horse Armour  Saddle-1.18-1.8-Forge.jar"
+hash-format = "murmur2"
+hash = "928070782"
+
+[update]
+[update.curseforge]
+file-id = 3542419
+project-id = 224841

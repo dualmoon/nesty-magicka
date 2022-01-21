@@ -1,0 +1,13 @@
+name = "Cycle Paintings (Forge)"
+filename = "cyclepaintings_1.18.1-2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3561/577/cyclepaintings_1.18.1-2.2.jar"
+hash-format = "murmur2"
+hash = "3053102952"
+
+[update]
+[update.curseforge]
+file-id = 3561577
+project-id = 345973

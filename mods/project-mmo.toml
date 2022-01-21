@@ -1,0 +1,13 @@
+name = "Project MMO"
+filename = "Project_MMO-1.18.1-3.69.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3612/50/Project_MMO-1.18.1-3.69.2.jar"
+hash-format = "murmur2"
+hash = "643001792"
+
+[update]
+[update.curseforge]
+file-id = 3612050
+project-id = 353935

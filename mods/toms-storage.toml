@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Mod"
+filename = "toms_storage-1.18-1.2.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3550/443/toms_storage-1.18-1.2.23.jar"
+hash-format = "murmur2"
+hash = "3608671343"
+
+[update]
+[update.curseforge]
+file-id = 3550443
+project-id = 378609

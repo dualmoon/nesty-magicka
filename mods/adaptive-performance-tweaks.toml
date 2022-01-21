@@ -1,0 +1,13 @@
+name = "🚀 Adaptive Performance Tweaks (Bundle) 📦"
+filename = "adaptive_performance_tweaks_1.18.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3593/435/adaptive_performance_tweaks_1.18.1-2.0.0.jar"
+hash-format = "murmur2"
+hash = "36097981"
+
+[update]
+[update.curseforge]
+file-id = 3593435
+project-id = 450269

@@ -1,0 +1,13 @@
+name = "Recall [Forge]"
+filename = "recall-1.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3542/934/recall-1.3.jar"
+hash-format = "murmur2"
+hash = "1113040171"
+
+[update]
+[update.curseforge]
+file-id = 3542934
+project-id = 341210

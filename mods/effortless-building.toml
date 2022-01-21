@@ -1,0 +1,13 @@
+name = "Effortless Building"
+filename = "effortlessbuilding-1.18.1-2.30.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/808/effortlessbuilding-1.18.1-2.30.jar"
+hash-format = "murmur2"
+hash = "3234317753"
+
+[update]
+[update.curseforge]
+file-id = 3587808
+project-id = 302113

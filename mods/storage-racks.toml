@@ -1,0 +1,13 @@
+name = "Storage Racks"
+filename = "storageracks-1.18-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/490/storageracks-1.18-1.0.2.jar"
+hash-format = "murmur2"
+hash = "4114425222"
+
+[update]
+[update.curseforge]
+file-id = 3600490
+project-id = 483682

@@ -1,0 +1,13 @@
+name = "FTB Ranks (Forge)"
+filename = "ftb-ranks-forge-1801.1.6-build.22.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3599/720/ftb-ranks-forge-1801.1.6-build.22.jar"
+hash-format = "murmur2"
+hash = "1972324213"
+
+[update]
+[update.curseforge]
+file-id = 3599720
+project-id = 314905

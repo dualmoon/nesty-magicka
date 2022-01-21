@@ -1,0 +1,13 @@
+name = "Bamboo Everything (Forge)"
+filename = "bambooeverything-1.2.4-build.10+mc1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/535/bambooeverything-1.2.4-build.10+mc1.18.1.jar"
+hash-format = "murmur2"
+hash = "4214784246"
+
+[update]
+[update.curseforge]
+file-id = 3584535
+project-id = 331723

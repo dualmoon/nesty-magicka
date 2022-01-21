@@ -1,0 +1,13 @@
+name = "Ore Bushes"
+filename = "orebushes-1.18.1-3.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/663/orebushes-1.18.1-3.3.jar"
+hash-format = "murmur2"
+hash = "710944965"
+
+[update]
+[update.curseforge]
+file-id = 3600663
+project-id = 484976

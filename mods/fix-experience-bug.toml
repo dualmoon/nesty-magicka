@@ -1,0 +1,13 @@
+name = "Fix Experience Bug (now with FABRIC and FORGE versions)"
+filename = "ExperienceBugFix-1.18-1.38.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3555/587/ExperienceBugFix-1.18-1.38.0.2.jar"
+hash-format = "murmur2"
+hash = "2841927566"
+
+[update]
+[update.curseforge]
+file-id = 3555587
+project-id = 486778

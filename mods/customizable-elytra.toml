@@ -1,0 +1,13 @@
+name = "Customizable Elytra"
+filename = "customizableelytra-1.18-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3575/868/customizableelytra-1.18-1.6.3.jar"
+hash-format = "murmur2"
+hash = "1259374326"
+
+[update]
+[update.curseforge]
+file-id = 3575868
+project-id = 440047

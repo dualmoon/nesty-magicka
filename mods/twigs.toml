@@ -1,0 +1,13 @@
+name = "Twigs"
+filename = "twigs-1.1.4-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3598/149/twigs-1.1.4-forge.jar"
+hash-format = "murmur2"
+hash = "47674331"
+
+[update]
+[update.curseforge]
+file-id = 3598149
+project-id = 496913

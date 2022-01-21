@@ -1,0 +1,13 @@
+name = "Giselbaer's Durability Viewer"
+filename = "durabilityviewer-1.18.1-forge39.0.9-1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/119/durabilityviewer-1.18.1-forge39.0.9-1.10.jar"
+hash-format = "murmur2"
+hash = "2690457336"
+
+[update]
+[update.curseforge]
+file-id = 3584119
+project-id = 262146

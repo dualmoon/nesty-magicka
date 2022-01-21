@@ -1,0 +1,13 @@
+name = "Better Animals Plus"
+filename = "betteranimalsplus-1.18.1-11.0.3-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3597/140/betteranimalsplus-1.18.1-11.0.3-forge.jar"
+hash-format = "murmur2"
+hash = "2532459547"
+
+[update]
+[update.curseforge]
+file-id = 3597140
+project-id = 303557

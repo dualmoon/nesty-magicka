@@ -1,0 +1,13 @@
+name = "Rail Wand"
+filename = "railwand-1.18.1-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3591/443/railwand-1.18.1-0.1.1.jar"
+hash-format = "murmur2"
+hash = "730508301"
+
+[update]
+[update.curseforge]
+file-id = 3591443
+project-id = 373467

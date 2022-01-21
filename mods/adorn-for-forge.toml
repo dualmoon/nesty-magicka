@@ -1,0 +1,13 @@
+name = "Adorn (Forge)"
+filename = "Adorn-3.1.0+1.18.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3584/467/Adorn-3.1.0+1.18.1-forge.jar"
+hash-format = "murmur2"
+hash = "4206570666"
+
+[update]
+[update.curseforge]
+file-id = 3584467
+project-id = 438784

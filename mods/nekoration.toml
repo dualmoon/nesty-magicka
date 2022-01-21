@@ -1,0 +1,13 @@
+name = "Nekoration"
+filename = "nekoration-1.18.X-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/62/nekoration-1.18.X-1.5.1.jar"
+hash-format = "murmur2"
+hash = "1492265072"
+
+[update]
+[update.curseforge]
+file-id = 3579062
+project-id = 508028

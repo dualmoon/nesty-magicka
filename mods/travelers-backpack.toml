@@ -1,0 +1,13 @@
+name = "Traveler's Backpack"
+filename = "TravelersBackpack-1.18.1-7.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3598/765/TravelersBackpack-1.18.1-7.0.1.jar"
+hash-format = "murmur2"
+hash = "2434950664"
+
+[update]
+[update.curseforge]
+file-id = 3598765
+project-id = 321117

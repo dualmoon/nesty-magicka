@@ -1,0 +1,13 @@
+name = "Structures' Compass"
+filename = "structurescompass-1.18.1-1.3.0-beta.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3566/404/structurescompass-1.18.1-1.3.0-beta.1.jar"
+hash-format = "murmur2"
+hash = "4143328590"
+
+[update]
+[update.curseforge]
+file-id = 3566404
+project-id = 491151

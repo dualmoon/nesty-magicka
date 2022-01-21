@@ -1,0 +1,13 @@
+name = "Rune Craft"
+filename = "RuneCraft-1.18-(v.3.4.1).jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3601/464/RuneCraft-1.18-(v.3.4.1).jar"
+hash-format = "murmur2"
+hash = "3423611016"
+
+[update]
+[update.curseforge]
+file-id = 3601464
+project-id = 264936

@@ -1,0 +1,13 @@
+name = "ItemZoom"
+filename = "itemzoom-1.18.1-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3574/21/itemzoom-1.18.1-2.5.0.jar"
+hash-format = "murmur2"
+hash = "127687989"
+
+[update]
+[update.curseforge]
+file-id = 3574021
+project-id = 261725

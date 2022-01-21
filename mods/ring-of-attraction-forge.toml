@@ -1,0 +1,13 @@
+name = "Ring of Attraction [FORGE]"
+filename = "RingOfAttraction-Forge-1.18.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3573/108/RingOfAttraction-Forge-1.18.1-1.4.2.jar"
+hash-format = "murmur2"
+hash = "1509301948"
+
+[update]
+[update.curseforge]
+file-id = 3573108
+project-id = 332890

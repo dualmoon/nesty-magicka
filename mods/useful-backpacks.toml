@@ -1,0 +1,13 @@
+name = "Useful Backpacks"
+filename = "useful_backpacks-1.18.1-1.12.1.92-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3583/996/useful_backpacks-1.18.1-1.12.1.92-SNAPSHOT.jar"
+hash-format = "murmur2"
+hash = "3623775389"
+
+[update]
+[update.curseforge]
+file-id = 3583996
+project-id = 274338

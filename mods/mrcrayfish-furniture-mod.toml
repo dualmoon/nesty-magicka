@@ -1,0 +1,13 @@
+name = "MrCrayfish's Furniture Mod"
+filename = "furniture-7.0.0-pre27-1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/392/furniture-7.0.0-pre27-1.18.1.jar"
+hash-format = "murmur2"
+hash = "3954576546"
+
+[update]
+[update.curseforge]
+file-id = 3559392
+project-id = 55438

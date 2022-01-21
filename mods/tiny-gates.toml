@@ -1,0 +1,13 @@
+name = "Tiny Gates"
+filename = "tinygates-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/668/tinygates-2.0.0.jar"
+hash-format = "murmur2"
+hash = "1299978430"
+
+[update]
+[update.curseforge]
+file-id = 3544668
+project-id = 522875

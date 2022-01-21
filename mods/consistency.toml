@@ -1,0 +1,13 @@
+name = "Consistency+"
+filename = "consistency_plus-0.4.3+1.18-forge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3578/854/consistency_plus-0.4.3+1.18-forge.jar"
+hash-format = "murmur2"
+hash = "1341824519"
+
+[update]
+[update.curseforge]
+file-id = 3578854
+project-id = 430445

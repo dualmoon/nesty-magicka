@@ -1,0 +1,13 @@
+name = "Trofers"
+filename = "trofers-1.18-2.5.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3548/830/trofers-1.18-2.5.0.jar"
+hash-format = "murmur2"
+hash = "4286079690"
+
+[update]
+[update.curseforge]
+file-id = 3548830
+project-id = 482265

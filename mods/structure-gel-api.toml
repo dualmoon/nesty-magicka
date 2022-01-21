@@ -1,0 +1,13 @@
+name = "Structure Gel API"
+filename = "structure_gel-1.18.1-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3600/725/structure_gel-1.18.1-2.1.1.jar"
+hash-format = "murmur2"
+hash = "112273701"
+
+[update]
+[update.curseforge]
+file-id = 3600725
+project-id = 378802

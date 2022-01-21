@@ -1,0 +1,13 @@
+name = "Colossal Chests"
+filename = "ColossalChests-1.18.1-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/820/ColossalChests-1.18.1-1.8.0.jar"
+hash-format = "murmur2"
+hash = "3869280010"
+
+[update]
+[update.curseforge]
+file-id = 3576820
+project-id = 237875

@@ -1,0 +1,13 @@
+name = "CleanView"
+filename = "CleanView-1.18.1-v1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3559/344/CleanView-1.18.1-v1.jar"
+hash-format = "murmur2"
+hash = "261135827"
+
+[update]
+[update.curseforge]
+file-id = 3559344
+project-id = 226889

@@ -1,0 +1,13 @@
+name = "Majrusz Library"
+filename = "majrusz-library-1.18.1-2.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/935/majrusz-library-1.18.1-2.7.1.jar"
+hash-format = "murmur2"
+hash = "1708429662"
+
+[update]
+[update.curseforge]
+file-id = 3576935
+project-id = 437409

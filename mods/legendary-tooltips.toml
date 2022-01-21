@@ -1,0 +1,13 @@
+name = "Legendary Tooltips"
+filename = "LegendaryTooltips-1.18.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3586/193/LegendaryTooltips-1.18.1-1.2.0.jar"
+hash-format = "murmur2"
+hash = "1716824938"
+
+[update]
+[update.curseforge]
+file-id = 3586193
+project-id = 532127

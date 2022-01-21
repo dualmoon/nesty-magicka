@@ -1,0 +1,13 @@
+name = "Snow Pig [Forge]"
+filename = "Snow_Pig-1.18.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3590/906/Snow_Pig-1.18.1-1.1.1.jar"
+hash-format = "murmur2"
+hash = "2057577235"
+
+[update]
+[update.curseforge]
+file-id = 3590906
+project-id = 410500

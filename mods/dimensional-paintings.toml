@@ -1,0 +1,13 @@
+name = "Dimensional Paintings"
+filename = "Dimensional-Paintings-1.18-1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3546/176/Dimensional-Paintings-1.18-1.2.jar"
+hash-format = "murmur2"
+hash = "3696076004"
+
+[update]
+[update.curseforge]
+file-id = 3546176
+project-id = 480500

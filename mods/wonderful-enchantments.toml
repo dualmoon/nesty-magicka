@@ -1,0 +1,13 @@
+name = "Wonderful Enchantments"
+filename = "wonderful-enchantments-1.18.1-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/931/wonderful-enchantments-1.18.1-1.6.1.jar"
+hash-format = "murmur2"
+hash = "3066026966"
+
+[update]
+[update.curseforge]
+file-id = 3576931
+project-id = 417439

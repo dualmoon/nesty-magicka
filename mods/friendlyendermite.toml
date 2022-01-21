@@ -1,0 +1,13 @@
+name = "FriendlyEndermite"
+filename = "Friendermite_v1.0.4_mc1.18.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3551/407/Friendermite_v1.0.4_mc1.18.jar"
+hash-format = "murmur2"
+hash = "3549239803"
+
+[update]
+[update.curseforge]
+file-id = 3551407
+project-id = 350337
