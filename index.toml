@@ -56,11 +56,6 @@ hash = "54674b3501ce925298457adfeebdbf99d38629eb0d5c9bd34e4061b16e1af715"
 metafile = true
 
 [[files]]
-file = "mods/advanced-netherite.toml"
-hash = "23c0c82b0b9086db7e0f29e34dc81d56646ab25e2a86a64237cb2e947d2963a8"
-metafile = true
-
-[[files]]
 file = "mods/advancement-frames.toml"
 hash = "782a372701161044f4c21f681cf54fd98cc7d1bfc112deac7922310a3c7414b1"
 metafile = true
@@ -1072,7 +1067,7 @@ metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.toml"
-hash = "4a308e01047bf3abe6be4834d79c7bf39580d9b325283c6c2ce103b24971dcc9"
+hash = "94a8c7d29b43a077c83eb2dec20128bcc834250447c2ed7954e0c17ba955c917"
 metafile = true
 
 [[files]]
@@ -1742,7 +1737,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "87d36321e6c761f1d63c1320ca8901867169a8417abb5e371100cf126497c371"
+hash = "3c8f2012600039fe25575a2fe07235fd009bfc137813f59b99b81e26459013ce"
 metafile = true
 
 [[files]]
