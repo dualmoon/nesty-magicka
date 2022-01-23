@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "987a5ea0b9e4a2af59472847ec16d875d171c104a3e450eb2d5a5b453c6f9ebe"
+hash = "090528d86170e8c64bd5a2aacf2ff0de35739014c5e0f85eed545d0ef57ecfe5"
 metafile = true
 
 [[files]]
@@ -637,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/drippy-loading-screen.toml"
-hash = "03ec1af7255925d1d93ac7491b6156c9fc8fa84607ad4e39f3387c460c7a191a"
+hash = "d8bb0fb401238935e57edf2d93f6705be0379a95b5ce0f6b1426831bc4a67d42"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.toml"
-hash = "2b768aedf72bb62dda89cc5021f97a0db95c81090cd62f4c526b89c4f75cc143"
+hash = "183489b7f96fc175922c873a3210bafb12b32d1bf75fcc6d5c8f07e2591f3d6b"
 metafile = true
 
 [[files]]
@@ -942,7 +942,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-borders.toml"
-hash = "f0bef7274c9e734c4dd8cd40466c0441c50ec34075f7556c92b6d57fdd4341cc"
+hash = "63bb65a69a99c20d7139c0c358824a04bdf1de9938019ece0d7a9103d35f7954"
 metafile = true
 
 [[files]]
@@ -1232,7 +1232,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "5a3d708bcbc76a60f79548a795b73d73c698c39249eba521aacebc9b3b49dcd2"
+hash = "968688de17f239b64588d848413d8b865ac6328a787f6ebecc7b9322de7e472f"
 metafile = true
 
 [[files]]
