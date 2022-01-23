@@ -1,6 +1,6 @@
 name = "Item Borders"
 filename = "ItemBorders-1.18.1-1.1.5.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3583/942/ItemBorders-1.18.1-1.1.5.jar"

@@ -1,6 +1,6 @@
 name = "Equipment Compare"
 filename = "EquipmentCompare-1.18.1-1.2.10.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3586/250/EquipmentCompare-1.18.1-1.2.10.jar"
