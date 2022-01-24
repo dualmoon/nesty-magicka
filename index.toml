@@ -1866,11 +1866,6 @@ hash = "0560572538b3ff0f1d8df281bf63d69bc9a1528cffa192f4ed911b23ac199970"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.toml"
-hash = "1ab2039375e725e063b6f7314d22030d0154f7f6375f80f7821dc81301fe405c"
-metafile = true
-
-[[files]]
 file = "mods/swingthroughgrass.toml"
 hash = "d062814f8e78941d4ae1a28c8faf09a61bca8a6e84d1fabf172b7313292ada50"
 metafile = true
