@@ -1321,6 +1321,11 @@ hash = "3ddc5cc165e4809b4d101c63c7dd1ef1087834c7a6d4f8978b539a845344305d"
 metafile = true
 
 [[files]]
+file = "mods/no-null-processors.toml"
+hash = "38d32947228527f358888a0c027522f0e4354d067c766efb74e3226cb0e614e4"
+metafile = true
+
+[[files]]
 file = "mods/nomowanderer.toml"
 hash = "e7dccdf8381d28d0c5c3bf315605b2525f1a932a0d501369b3c4bc77db3b915d"
 metafile = true
