@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.toml"
-hash = "1ed0f3de37909d716ea3ef6998e6674b5a36f6cc38f677fde185c5004ae9b31f"
+hash = "e8b3df9de93ff3d00907d5eeba4a36faa18047533070a1e3dff868a2de0bbde2"
 metafile = true
 
 [[files]]
