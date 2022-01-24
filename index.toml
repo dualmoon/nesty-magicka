@@ -771,6 +771,11 @@ hash = "dc71b2c2005149c501a3779ff5c899e850c79028771d1b24e6e10c6e6bde0625"
 metafile = true
 
 [[files]]
+file = "mods/feature-nbt-deadlock-be-gone.toml"
+hash = "051c09e14638dc26c9f80ceb44facb5f3f2aa2d5aa352719748c3facd10a9ab3"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.toml"
 hash = "33f6071eae801063af71606867c00988cdffcc0f1a3366d0a5ce61c1c7b981ba"
 metafile = true
@@ -1177,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "79c0bd74c55ed80f024f74d5ccbde1be3aaef824261ffbdb98278cc2c6cda546"
+hash = "9789f5f849f428aacd8e00dc5044f34af8210b7ee375515f41641d69ff0e491b"
 metafile = true
 
 [[files]]
