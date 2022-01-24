@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "601ee2befae0b4ccca534813dbfbd50a8b5abe8ffc5d1cb838339b3c65f922f0"
+hash = "8eeeb729cfdddc048f7ee1084289a248703e67f4dae63d39b4f15a43bbded928"
 metafile = true
 
 [[files]]
@@ -977,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "43dff6d180fc55f3006738789276383bb676e99eb01b02279b222269bd349657"
+hash = "e9d3d9fe115007652ac76e201ebc9940e03216e824cdaa47b8c8a8c38ff17892"
 metafile = true
 
 [[files]]
