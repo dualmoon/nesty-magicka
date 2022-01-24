@@ -1,13 +1,13 @@
 name = "Oh The Biomes You'll Go"
-filename = "Oh The Biomes You'll Go-forge-1.18.1-1.3.5.5.jar"
+filename = "Oh The Biomes You'll Go-forge-1.18.1-1.3.5.7.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3615/397/Oh The Biomes You'll Go-forge-1.18.1-1.3.5.5.jar"
+url = "https://edge.forgecdn.net/files/3620/164/Oh The Biomes You'll Go-forge-1.18.1-1.3.5.7.jar"
 hash-format = "murmur2"
-hash = "3458916724"
+hash = "4245366117"
 
 [update]
 [update.curseforge]
-file-id = 3615397
+file-id = 3620164
 project-id = 247560

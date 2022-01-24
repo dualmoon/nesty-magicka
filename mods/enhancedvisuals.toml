@@ -1,13 +1,13 @@
 name = "EnhancedVisuals"
-filename = "EnhancedVisuals_v1.4.3_mc1.18.1.jar"
+filename = "EnhancedVisuals_v1.4.4_mc1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3566/970/EnhancedVisuals_v1.4.3_mc1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3617/11/EnhancedVisuals_v1.4.4_mc1.18.1.jar"
 hash-format = "murmur2"
-hash = "3322648326"
+hash = "1699419843"
 
 [update]
 [update.curseforge]
-file-id = 3566970
+file-id = 3617011
 project-id = 255389

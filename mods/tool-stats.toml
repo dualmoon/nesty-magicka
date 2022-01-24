@@ -1,13 +1,13 @@
 name = "Tool Stats"
-filename = "ToolStats-Forge-1.18.1-8.0.1.jar"
+filename = "ToolStats-Forge-1.18.1-8.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3586/534/ToolStats-Forge-1.18.1-8.0.1.jar"
+url = "https://edge.forgecdn.net/files/3618/436/ToolStats-Forge-1.18.1-8.0.2.jar"
 hash-format = "murmur2"
-hash = "1883876750"
+hash = "1513675069"
 
 [update]
 [update.curseforge]
-file-id = 3586534
+file-id = 3618436
 project-id = 377109

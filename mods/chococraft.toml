@@ -1,13 +1,13 @@
 name = "ChocoCraft"
-filename = "chococraft-1.18.1-0.2.1.jar"
+filename = "chococraft-1.18.1-0.2.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3560/44/chococraft-1.18.1-0.2.1.jar"
+url = "https://edge.forgecdn.net/files/3617/249/chococraft-1.18.1-0.2.2.jar"
 hash-format = "murmur2"
-hash = "3480789912"
+hash = "285643018"
 
 [update]
 [update.curseforge]
-file-id = 3560044
+file-id = 3617249
 project-id = 225280

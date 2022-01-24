@@ -1,13 +1,13 @@
 name = "Habitat"
-filename = "habitat-1.1.1.jar"
+filename = "habitat-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3562/490/habitat-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3618/305/habitat-1.1.2.jar"
 hash-format = "murmur2"
-hash = "2144996357"
+hash = "4137965439"
 
 [update]
 [update.curseforge]
-file-id = 3562490
+file-id = 3618305
 project-id = 422972

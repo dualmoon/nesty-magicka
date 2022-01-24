@@ -1,13 +1,13 @@
 name = "Inventory Profiles Next"
-filename = "InventoryProfilesNext-forge-1.18-1.2.3.jar"
+filename = "InventoryProfilesNext-forge-1.18-1.2.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/647/InventoryProfilesNext-forge-1.18-1.2.3.jar"
+url = "https://edge.forgecdn.net/files/3618/336/InventoryProfilesNext-forge-1.18-1.2.4.jar"
 hash-format = "murmur2"
-hash = "1938335897"
+hash = "3158183835"
 
 [update]
 [update.curseforge]
-file-id = 3587647
+file-id = 3618336
 project-id = 495267

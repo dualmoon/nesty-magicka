@@ -1,13 +1,13 @@
 name = "Stone Chest"
-filename = "StoneChest-1.18.1-1.0.0.jar"
+filename = "StoneChest-1.18.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3570/545/StoneChest-1.18.1-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3620/756/StoneChest-1.18.1-1.1.0.jar"
 hash-format = "murmur2"
-hash = "1442593615"
+hash = "2860113825"
 
 [update]
 [update.curseforge]
-file-id = 3570545
+file-id = 3620756
 project-id = 307052

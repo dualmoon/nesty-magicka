@@ -1,13 +1,13 @@
 name = "Doggy Talents"
-filename = "DoggyTalents-1.18.1-2.4.0.jar"
+filename = "DoggyTalents-1.18.1-2.4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3565/540/DoggyTalents-1.18.1-2.4.0.jar"
+url = "https://edge.forgecdn.net/files/3616/930/DoggyTalents-1.18.1-2.4.2.jar"
 hash-format = "murmur2"
-hash = "580702307"
+hash = "243701970"
 
 [update]
 [update.curseforge]
-file-id = 3565540
+file-id = 3616930
 project-id = 271050
