@@ -2094,7 +2094,3 @@ metafile = true
 file = "mods/xp-tome.toml"
 hash = "72b6d162b924acdcd7acf07302577cc6caf3c8e83266df64378f47ed0506724a"
 metafile = true
-
-[[files]]
-file = "packwiz"
-hash = "36699fbff989897367f0f1f0aa58b209f0001394abbd2d7207c6a26f9a0d9650"
