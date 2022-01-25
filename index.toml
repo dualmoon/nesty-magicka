@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/ato.toml"
-hash = "126378cb0a21688212e608cd9816c47bc50e25326b17de898ea6223e89cae6e6"
+hash = "7ce80f0f421ce71cb40c4b0c81583ea51fd2b4ebce05e6641bfd183cae4e4f37"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmos-library.toml"
-hash = "712ca64f4dc68f131d31e1ab995e37a28d1b5107682461233d7d66d5caf254ca"
+hash = "e6c2e927d1e63c1267fa62b054a8305f41024064df8f68f2af1844cfc7413a87"
 metafile = true
 
 [[files]]
@@ -842,7 +842,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.toml"
-hash = "8eeeb729cfdddc048f7ee1084289a248703e67f4dae63d39b4f15a43bbded928"
+hash = "5a5c9e593d9d75747f0364395294838089cf850e34d104c82d8c9ac95c076716"
 metafile = true
 
 [[files]]
@@ -977,7 +977,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "e9d3d9fe115007652ac76e201ebc9940e03216e824cdaa47b8c8a8c38ff17892"
+hash = "a00772286533eec8319631ee50d77c8c3b37061ed21740f4e5301c7866086ec0"
 metafile = true
 
 [[files]]
@@ -1097,7 +1097,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "a47f27e5029eafb7d90f5e2ceec44009f5302b8e0fd7b8bca510ab088b9f72ba"
+hash = "f1ad838411acaaca6d70441ae2ff6590413aed8405edc9d6e4fc11830c32fb53"
 metafile = true
 
 [[files]]
