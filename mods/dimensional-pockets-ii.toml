@@ -1,13 +1,13 @@
 name = "Dimensional Pockets II"
-filename = "dimensionalpocketsii-1.18.1-5.1.1.40-universal.jar"
+filename = "dimensionalpocketsii-1.18.1-5.1.1.220-universal.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3619/635/dimensionalpocketsii-1.18.1-5.1.1.40-universal.jar"
+url = "https://edge.forgecdn.net/files/3622/644/dimensionalpocketsii-1.18.1-5.1.1.220-universal.jar"
 hash-format = "murmur2"
-hash = "2595167438"
+hash = "2721818222"
 
 [update]
 [update.curseforge]
-file-id = 3619635
+file-id = 3622644
 project-id = 282573

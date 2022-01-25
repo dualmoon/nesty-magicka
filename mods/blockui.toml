@@ -1,13 +1,13 @@
 name = "BlockUI"
-filename = "blockui-1.18-0.0.40-ALPHA.jar"
+filename = "blockui-1.18.1-0.0.43-ALPHA.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3612/20/blockui-1.18-0.0.40-ALPHA.jar"
+url = "https://edge.forgecdn.net/files/3623/122/blockui-1.18.1-0.0.43-ALPHA.jar"
 hash-format = "murmur2"
-hash = "1674826940"
+hash = "3962159741"
 
 [update]
 [update.curseforge]
-file-id = 3612020
+file-id = 3623122
 project-id = 522992

@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/blockui.toml"
-hash = "32efea82a85f386470a0df2faacf38a89dfd92dc206e8b0a9e88ce8c05884bf0"
+hash = "c8a510b38bd0e212002a2441b28f5c0bc73635f33729fa7cbdaf1cab74dbe719"
 metafile = true
 
 [[files]]
@@ -587,7 +587,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-dungeons.toml"
-hash = "8c75be0e36246f6936279d03641f2bd0589e39cd7b97c337f91df9906d53db30"
+hash = "6761bcd6e08de74fd6e32d176ec4cf0cb26d1b01008cee209d3f492f93dbc7ec"
 metafile = true
 
 [[files]]
@@ -597,7 +597,7 @@ metafile = true
 
 [[files]]
 file = "mods/dimensional-pockets-ii.toml"
-hash = "1d24f47a761a1ab4647bf251dce49965dc6acd83fdf454fe8dd397746472c038"
+hash = "682e49ed6c9b2d1240d7d32a76334ba11f6e6b88c65e0eb6cb8ec395c03b9a39"
 metafile = true
 
 [[files]]
@@ -987,7 +987,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.toml"
-hash = "cae295cb6d15fa91f919b12b5e3a12c7d036aea2a77504412216c874dfd3298c"
+hash = "b38a3f4c0e43f8da65a4e5d125a47517dd835b4a25a52e2edb26f879f6cc0e9f"
 metafile = true
 
 [[files]]
@@ -1147,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.toml"
-hash = "08accb61622098e7d9933c904d43055eaaf31ebbe1bfa8b07ef449c5a6798d4c"
+hash = "d43a58957a60c4203aee0e10dd25e8d922c61731eec08e9ed73a48ea6f3d4574"
 metafile = true
 
 [[files]]
@@ -1182,7 +1182,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.toml"
-hash = "9789f5f849f428aacd8e00dc5044f34af8210b7ee375515f41641d69ff0e491b"
+hash = "e1217d6ef5857204a87e3a0ec86a6190c6dbe9b9153e27dad58b6bf585be2311"
 metafile = true
 
 [[files]]
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/nekoration.toml"
-hash = "25546b281b81e0dddb4781263b7dad4686ad0606e925f31cdea1898aab96ddf9"
+hash = "73520ee90272a87f70bb25e3176ee7d799a55f131165d83358c2c14b3ee8fe26"
 metafile = true
 
 [[files]]
@@ -1622,7 +1622,7 @@ metafile = true
 
 [[files]]
 file = "mods/roots-classic.toml"
-hash = "c2d9f24e6bea505314587962fcf0d7645becda316980c4b4884647d70e667812"
+hash = "618d2f3aa1d0b2099d889c076947e7e20bda48cc41837fa4ff2a32d1c5dc2a73"
 metafile = true
 
 [[files]]
@@ -1847,7 +1847,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.toml"
-hash = "1cffcf56c919d580c26519c3de6cd7372b4219095df9cf130337f2ac18c745e6"
+hash = "6ee0c69fed65e39040b47993bc22842399e5a557eca3ff0729444315c12ccd5a"
 metafile = true
 
 [[files]]
@@ -1863,6 +1863,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.toml"
 hash = "0560572538b3ff0f1d8df281bf63d69bc9a1528cffa192f4ed911b23ac199970"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.toml"
+hash = "9a4a91154667b914f076a4441c109402687bfa65069de96249a0884f5654191d"
 metafile = true
 
 [[files]]
