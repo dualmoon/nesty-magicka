@@ -1,13 +1,13 @@
 name = "Mahou Tsukai"
-filename = "mahoutsukai-1.18.1-v1.34.3.jar"
+filename = "mahoutsukai-1.18.1-v1.34.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3622/813/mahoutsukai-1.18.1-v1.34.3.jar"
+url = "https://edge.forgecdn.net/files/3623/332/mahoutsukai-1.18.1-v1.34.5.jar"
 hash-format = "murmur2"
-hash = "1862260573"
+hash = "4014134769"
 
 [update]
 [update.curseforge]
-file-id = 3622813
+file-id = 3623332
 project-id = 342543

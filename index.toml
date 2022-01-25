@@ -1147,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.toml"
-hash = "d43a58957a60c4203aee0e10dd25e8d922c61731eec08e9ed73a48ea6f3d4574"
+hash = "664a11a8f0289ecfcc261fe5983694692054f3ec21425807123351f855cd2734"
 metafile = true
 
 [[files]]
@@ -1177,7 +1177,7 @@ metafile = true
 
 [[files]]
 file = "mods/meet-your-fight.toml"
-hash = "534fd12f1efdcaa8ae7de9bb714029d2200a3f5c9a00ec999a3013d2646939ae"
+hash = "c0bce2274ed0dc049e40a8cd6c5493bec62d235c32aa01243280123cc7c902d5"
 metafile = true
 
 [[files]]
@@ -1358,11 +1358,6 @@ metafile = true
 [[files]]
 file = "mods/occultism.toml"
 hash = "574c99bb316d67c76f2e2de092f1e0fb54a21ee19d37de7e2c98e0fa39f81411"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-youll-go.toml"
-hash = "8802b78daadf95e29530b387fd027a56fe5d3d6955bcbe45521d6f4d932d5b3d"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Meet Your Fight"
-filename = "meetyourfight-1.18-1.2.2.jar"
+filename = "meetyourfight-1.18-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3551/713/meetyourfight-1.18-1.2.2.jar"
+url = "https://edge.forgecdn.net/files/3623/277/meetyourfight-1.18-1.2.3.jar"
 hash-format = "murmur2"
-hash = "2868561136"
+hash = "788174474"
 
 [update]
 [update.curseforge]
-file-id = 3551713
+file-id = 3623277
 project-id = 409371
