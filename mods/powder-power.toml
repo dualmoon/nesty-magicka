@@ -1,13 +1,13 @@
 name = "Powder Power [FORGE]"
-filename = "PowderPower-Forge-1.18.1-3.5.7.jar"
+filename = "PowderPower-Forge-1.18.1-3.5.8.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3622/13/PowderPower-Forge-1.18.1-3.5.7.jar"
+url = "https://edge.forgecdn.net/files/3623/821/PowderPower-Forge-1.18.1-3.5.8.jar"
 hash-format = "murmur2"
-hash = "209756101"
+hash = "3777806766"
 
 [update]
 [update.curseforge]
-file-id = 3622013
+file-id = 3623821
 project-id = 254677

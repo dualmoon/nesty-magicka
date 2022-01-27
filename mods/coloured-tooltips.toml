@@ -1,13 +1,13 @@
 name = "Coloured Tooltips"
-filename = "ColouredTooltips-Forge-1.18.1-14.0.1.jar"
+filename = "ColouredTooltips-Forge-1.18.1-14.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3581/25/ColouredTooltips-Forge-1.18.1-14.0.1.jar"
+url = "https://edge.forgecdn.net/files/3624/236/ColouredTooltips-Forge-1.18.1-14.0.2.jar"
 hash-format = "murmur2"
-hash = "1813173090"
+hash = "2432732708"
 
 [update]
 [update.curseforge]
-file-id = 3581025
+file-id = 3624236
 project-id = 285684

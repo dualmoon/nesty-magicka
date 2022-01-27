@@ -1,13 +1,13 @@
 name = "Omnipotent Card"
-filename = "omni_card-1.18.1-1.2.1.jar"
+filename = "omni_card-1.18.1-1.2.2-pre1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3574/47/omni_card-1.18.1-1.2.1.jar"
+url = "https://edge.forgecdn.net/files/3624/970/omni_card-1.18.1-1.2.2-pre1.jar"
 hash-format = "murmur2"
-hash = "2033398283"
+hash = "3987736773"
 
 [update]
 [update.curseforge]
-file-id = 3574047
+file-id = 3624970
 project-id = 552200

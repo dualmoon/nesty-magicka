@@ -1,13 +1,13 @@
-name = "🚀 Adaptive Performance Tweaks: Core ⚙️"
-filename = "adaptive_performance_tweaks_core_1.18.1-1.0.0.jar"
+name = "Adaptive Performance Tweaks: Core"
+filename = "adaptive_performance_tweaks_core_1.18.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/688/adaptive_performance_tweaks_core_1.18.1-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3624/780/adaptive_performance_tweaks_core_1.18.1-1.1.0.jar"
 hash-format = "murmur2"
-hash = "1313290028"
+hash = "1189873809"
 
 [update]
 [update.curseforge]
-file-id = 3620688
+file-id = 3624780
 project-id = 561087

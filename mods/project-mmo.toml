@@ -1,13 +1,13 @@
 name = "Project MMO"
-filename = "Project_MMO-1.18.1-3.69.4.jar"
+filename = "Project_MMO-1.18.1-3.69.5.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3621/775/Project_MMO-1.18.1-3.69.4.jar"
+url = "https://edge.forgecdn.net/files/3624/523/Project_MMO-1.18.1-3.69.5.jar"
 hash-format = "murmur2"
-hash = "905040249"
+hash = "3083145573"
 
 [update]
 [update.curseforge]
-file-id = 3621775
+file-id = 3624523
 project-id = 353935
