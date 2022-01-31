@@ -1,13 +1,13 @@
 name = "Ore Excavation"
-filename = "OreExcavation-1.10.159.jar"
+filename = "OreExcavation-1.10.160.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3587/786/OreExcavation-1.10.159.jar"
+url = "https://edge.forgecdn.net/files/3629/899/OreExcavation-1.10.160.jar"
 hash-format = "murmur2"
-hash = "69660427"
+hash = "847168888"
 
 [update]
 [update.curseforge]
-file-id = 3587786
+file-id = 3629899
 project-id = 250898

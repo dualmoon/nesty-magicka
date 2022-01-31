@@ -1,13 +1,13 @@
-name = "🚀 Adaptive Performance Tweaks: Player 😊"
-filename = "adaptive_performance_tweaks_player_1.18.1-1.0.0.jar"
+name = "Adaptive Performance Tweaks: Player"
+filename = "adaptive_performance_tweaks_player_1.18.1-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/712/adaptive_performance_tweaks_player_1.18.1-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3627/941/adaptive_performance_tweaks_player_1.18.1-2.0.0.jar"
 hash-format = "murmur2"
-hash = "1620674818"
+hash = "1081467701"
 
 [update]
 [update.curseforge]
-file-id = 3620712
+file-id = 3627941
 project-id = 563963

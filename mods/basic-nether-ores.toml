@@ -1,13 +1,13 @@
 name = "Basic Nether Ores [Forge/Fabric]"
-filename = "BasicNetherOres-1.18.1-7.1.1.jar"
+filename = "BasicNetherOres-1.18.1-7.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3594/331/BasicNetherOres-1.18.1-7.1.1.jar"
+url = "https://edge.forgecdn.net/files/3629/412/BasicNetherOres-1.18.1-7.1.2.jar"
 hash-format = "murmur2"
-hash = "1677114217"
+hash = "3731524806"
 
 [update]
 [update.curseforge]
-file-id = 3594331
+file-id = 3629412
 project-id = 289647

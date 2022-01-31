@@ -1,13 +1,13 @@
 name = "Gobber [FORGE]"
-filename = "Gobber2-Forge-1.18.1-2.6.17.jar"
+filename = "Gobber2-Forge-1.18.1-2.6.18.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3623/555/Gobber2-Forge-1.18.1-2.6.17.jar"
+url = "https://edge.forgecdn.net/files/3625/831/Gobber2-Forge-1.18.1-2.6.18.jar"
 hash-format = "murmur2"
-hash = "4057289437"
+hash = "3524351031"
 
 [update]
 [update.curseforge]
-file-id = 3623555
+file-id = 3625831
 project-id = 301700

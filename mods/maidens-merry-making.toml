@@ -1,13 +1,13 @@
 name = "Maiden's Merrymaking - A Christmas and Winter Holiday Mod"
-filename = "maidensmerrymaking-1.18.1-1.0.jar"
+filename = "maidensmerrymaking-1.18.1-1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3571/647/maidensmerrymaking-1.18.1-1.0.jar"
+url = "https://edge.forgecdn.net/files/3627/674/maidensmerrymaking-1.18.1-1.1.jar"
 hash-format = "murmur2"
-hash = "3517677081"
+hash = "403375413"
 
 [update]
 [update.curseforge]
-file-id = 3571647
+file-id = 3627674
 project-id = 430867

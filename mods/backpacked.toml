@@ -1,13 +1,13 @@
 name = "Backpacked"
-filename = "backpacked-2.0.3-1.18.1.jar"
+filename = "backpacked-2.0.4-1.18.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3624/389/backpacked-2.0.3-1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3626/102/backpacked-2.0.4-1.18.1.jar"
 hash-format = "murmur2"
-hash = "696308371"
+hash = "3531107312"
 
 [update]
 [update.curseforge]
-file-id = 3624389
+file-id = 3626102
 project-id = 352835

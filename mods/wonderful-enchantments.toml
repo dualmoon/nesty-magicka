@@ -1,13 +1,13 @@
 name = "Wonderful Enchantments"
-filename = "wonderful-enchantments-1.18.1-1.6.1.jar"
+filename = "wonderful-enchantments-1.18.1-1.6.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3576/931/wonderful-enchantments-1.18.1-1.6.1.jar"
+url = "https://edge.forgecdn.net/files/3628/20/wonderful-enchantments-1.18.1-1.6.2.jar"
 hash-format = "murmur2"
-hash = "3066026966"
+hash = "954540888"
 
 [update]
 [update.curseforge]
-file-id = 3576931
+file-id = 3628020
 project-id = 417439

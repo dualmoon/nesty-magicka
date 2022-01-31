@@ -1,13 +1,13 @@
 name = "Runelic"
-filename = "Runelic-Forge-1.18.1-10.0.3.jar"
+filename = "Runelic-Forge-1.18.1-10.0.6.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3618/423/Runelic-Forge-1.18.1-10.0.3.jar"
+url = "https://edge.forgecdn.net/files/3626/404/Runelic-Forge-1.18.1-10.0.6.jar"
 hash-format = "murmur2"
-hash = "1826473159"
+hash = "4126447651"
 
 [update]
 [update.curseforge]
-file-id = 3618423
+file-id = 3626404
 project-id = 393149

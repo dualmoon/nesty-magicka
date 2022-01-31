@@ -1,13 +1,13 @@
 name = "Bonsai Trees 3"
-filename = "bonsaitrees3-3.0.0.jar"
+filename = "bonsaitrees3-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3598/630/bonsaitrees3-3.0.0.jar"
+url = "https://edge.forgecdn.net/files/3630/323/bonsaitrees3-3.0.2.jar"
 hash-format = "murmur2"
-hash = "1452913656"
+hash = "2522444422"
 
 [update]
 [update.curseforge]
-file-id = 3598630
+file-id = 3630323
 project-id = 278993

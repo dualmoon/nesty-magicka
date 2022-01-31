@@ -1,13 +1,13 @@
 name = "Nameless Trinkets"
-filename = "Nameless Trinkets-1.18.1-1.3.3.jar"
+filename = "Nameless Trinkets-1.18.1-1.3.4.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3613/272/Nameless Trinkets-1.18.1-1.3.3.jar"
+url = "https://edge.forgecdn.net/files/3629/641/Nameless Trinkets-1.18.1-1.3.4.jar"
 hash-format = "murmur2"
-hash = "658868821"
+hash = "3518319718"
 
 [update]
 [update.curseforge]
-file-id = 3613272
+file-id = 3629641
 project-id = 541466

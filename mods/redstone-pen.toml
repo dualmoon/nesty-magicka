@@ -1,13 +1,13 @@
 name = "Redstone Pen"
-filename = "redstonepen-1.18.1-1.0.8.jar"
+filename = "redstonepen-1.18.1-1.0.9-b2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/193/redstonepen-1.18.1-1.0.8.jar"
+url = "https://edge.forgecdn.net/files/3630/421/redstonepen-1.18.1-1.0.9-b2.jar"
 hash-format = "murmur2"
-hash = "2021338682"
+hash = "141891626"
 
 [update]
 [update.curseforge]
-file-id = 3620193
+file-id = 3630421
 project-id = 461710

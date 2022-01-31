@@ -1,13 +1,13 @@
 name = "Refined Pipes"
-filename = "refinedpipes-0.6.0.jar"
+filename = "refinedpipes-0.6.1.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3570/151/refinedpipes-0.6.0.jar"
+url = "https://edge.forgecdn.net/files/3630/140/refinedpipes-0.6.1.jar"
 hash-format = "murmur2"
-hash = "2794674467"
+hash = "732882360"
 
 [update]
 [update.curseforge]
-file-id = 3570151
+file-id = 3630140
 project-id = 370696

@@ -1,13 +1,13 @@
-name = "🚀 Adaptive Performance Tweaks: Gamerules 🔀"
-filename = "adaptive_performance_tweaks_gamerules_1.18.1-1.0.0.jar"
+name = "Adaptive Performance Tweaks: Gamerules"
+filename = "adaptive_performance_tweaks_gamerules_1.18.1-2.0.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3620/697/adaptive_performance_tweaks_gamerules_1.18.1-1.0.0.jar"
+url = "https://edge.forgecdn.net/files/3627/942/adaptive_performance_tweaks_gamerules_1.18.1-2.0.0.jar"
 hash-format = "murmur2"
-hash = "1703570655"
+hash = "216479322"
 
 [update]
 [update.curseforge]
-file-id = 3620697
+file-id = 3627942
 project-id = 561137

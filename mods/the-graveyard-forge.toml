@@ -1,13 +1,13 @@
 name = "The Graveyard (FORGE)"
-filename = "The_Graveyard_1.4_(FORGE)_for_1.18.1.jar"
+filename = "The_Graveyard_1.5_(FORGE)_for_1.18.1_without_biomes.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3615/734/The_Graveyard_1.4_(FORGE)_for_1.18.1.jar"
+url = "https://edge.forgecdn.net/files/3630/222/The_Graveyard_1.5_(FORGE)_for_1.18.1_without_biomes.jar"
 hash-format = "murmur2"
-hash = "3257129152"
+hash = "918789116"
 
 [update]
 [update.curseforge]
-file-id = 3615734
+file-id = 3630222
 project-id = 531188

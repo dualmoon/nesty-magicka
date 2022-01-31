@@ -1,13 +1,13 @@
 name = "MCDoom"
-filename = "MCDoom-1.18.1-4.0.1.jar"
+filename = "MCDoom-1.18.1-4.1.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3571/42/MCDoom-1.18.1-4.0.1.jar"
+url = "https://edge.forgecdn.net/files/3630/28/MCDoom-1.18.1-4.1.0.jar"
 hash-format = "murmur2"
-hash = "319583054"
+hash = "3888453300"
 
 [update]
 [update.curseforge]
-file-id = 3571042
+file-id = 3630028
 project-id = 368765
